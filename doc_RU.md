@@ -106,3 +106,7 @@ EXIT;
 - Если VM недоступна, [InfinityFree](https://www.infinityfree.com/) предлагает бесплатный PHP/MySQL/SSL-хостинг. Проверьте расширения, `.htaccess`, доступ API и ботов, лимиты и хранение; TURN потребуется отдельно. С этим проектом хостинг не проверен. GitHub Pages сам по себе не запускает PHP и MySQL.
 
 Другие способы подключения сайта на ПК описаны в [TUNNELS.md](https://github.com/LChatDev/LChatRU/blob/main/TUNNELS.md). Такой сайт работает только при включённом ПК и интернете; Cloudflare Tunnel для сайта не заменяет TURN.
+
+## Обновление интерфейса от 11 ноября 2026
+
+Для эффекта стекла, плавных анимаций и статуса «был 10 минут назад» обновите файлы сайта из [LChatWeb](https://github.com/LChatDev/LChatWeb): `index.php`, `assets/app.js`, `assets/user-profile.js` (если есть), `assets/glass-presence.css`. После загрузки обновите страницу браузера. Серверная часть не требует изменения для этого интерфейсного обновления.

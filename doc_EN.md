@@ -104,3 +104,7 @@ Test two clients on different networks. Select **TURN only** temporarily to test
 - If this option is unavailable, [InfinityFree](https://www.infinityfree.com/) advertises free PHP/MySQL/SSL hosting, but it is a separate shared-hosting option: verify PHP extensions, `.htaccess`, API/bot access, request limits and storage, and host TURN elsewhere. It has not been verified with this project. GitHub Pages alone cannot execute this PHP/MySQL application.
 
 Other ways to expose a PC-hosted website are listed in [TUNNELS.md](https://github.com/LChatDev/LChat/blob/main/TUNNELS.md). A PC-hosted setup is only online while the PC and its internet connection are running; Cloudflare Tunnel for the website does not itself provide the TURN relay.
+
+## Interface update, 11 November 2026
+
+For the glass appearance, smoother animations and relative last-seen status, update the website files from [LChatWeb](https://github.com/LChatDev/LChatWeb): `index.php`, `assets/app.js`, `assets/user-profile.js` (if present), `assets/glass-presence.css`. Refresh the browser afterward. This interface update does not require backend changes.
