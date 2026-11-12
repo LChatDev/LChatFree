@@ -112,3 +112,5 @@ For the glass appearance, smoother animations and relative last-seen status, upd
 ## Verify registration and login
 
 Open the website in a private window and register a test account. If email verification is enabled, confirm the address from the email before signing in. Reload the page to check that the session persists.
+
+Message encryption is configured on the backend. See [LChatHost](https://github.com/LChatDev/LChatHost/blob/main/MESSAGE_ENCRYPTION.md).
