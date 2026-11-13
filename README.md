@@ -18,3 +18,6 @@
 - Бесплатный домен / Free hostname: [Русский](FREE_DOMAIN_RU.md) · [English](FREE_DOMAIN_EN.md)
 
 - [Пособие по бесплатному хостингу и звонкам](CALLS_AND_HOSTING_RU.md)
+
+
+[Codex skill / ИИ-скилл](.agents/skills/lchat-maintainer/SKILL.md). Open the repository in Codex and invoke `$lchat-maintainer`.
