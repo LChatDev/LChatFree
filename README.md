@@ -1,5 +1,10 @@
 # LChatFree
 
+<!-- live-sync-20261119 -->
+
+[Website update and deployment (English)](SYNC_EN.md) · [Обновление и размещение (русский)](SYNC_RU.md)
+
+
 > Этот проект полностью создан искусственным интеллектом. / This project was created entirely by AI.
 
 Руководства по бесплатному размещению LChat. / Guides to hosting LChat for free.
